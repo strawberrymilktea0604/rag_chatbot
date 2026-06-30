@@ -1,0 +1,70 @@
+# Node
+frontend/node_modules
+frontend/.next
+frontend/.env*.local
+
+# Python
+backend/__pycache__/
+backend/*.sqlite3
+backend/.env
+.venv/
+.env
+
+# Qdrant Embedded Data
+backend/qdrant_data/
+
+# Chroma + uploads
+backend/chroma_db/
+backend/media/
+
+# Logs
+*.log
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary Files
+*.swp
+*.swo
+
+# Python Bytecode
+**/__pycache__/
+**/*.py[cod]
+.env.docker
+**/chatbot/media
+**/chatbot/backend/media
+**/chatbot/backend/qa_gold_*.csv
+**/UPLOAD_*.md
+IMPLEMENTATION_CHECKLIST.md
+IMPLEMENTATION_SUMMARY.md
+start-dev.bat
+start-dev.sh
+test_gpu.ipynb
+chatbot/db.sqlite3
+chatbot/diagnose_chunk.py
+chatbot/media/exports/1e8e6c622bfb571b0b783d8347182318_chunks.csv
+chatbot/media/exports/2d1f518956cdc4b3cf6a9447714cfcd0_chunks.csv
+chatbot/media/exports/74040f5628748874779838fa7a292b09_chunks.csv
+chatbot/media/exports/a3aa8203ae0398a1ef263322bcadebc3_chunks.csv
+chatbot/media/exports/ea73ad6304ed438f7e7d4c59ddd227a1_chunks.csv
+chatbot/hybrid_sample_gold_candidates.py
+chatbot/debug_question_matching.py
+chatbot/GPU_IMPLEMENTATION_SUMMARY.md
+chatbot/HARD_NEGATIVES_MINING_README.md
+ARCHITECTURE_DIAGRAMS.md
+GPU_SETUP_GUIDE.md
+QUICK_START.md
+README_FRONTEND.md
+SETUP_GUIDE.md
+chatbot/media/exports/1e8e6c622bfb571b0b783d8347182318_chunks.csv
+chatbot/TRAINING_QUERIES_README.md
+chatbot/media/exports/1e8e6c622bfb571b0b783d8347182318_chunks.csv
+chatbot/media/exports/2d1f518956cdc4b3cf6a9447714cfcd0_chunks.csv
+chatbot/reranker_finetune/checkpoint-*
+chatbot/reranker_finetune/checkpoints
+chatbot/reranker_finetune/output
+chatbot/reranker_finetune/best_adapter
+chatbot/plot_recall_at_k.py
