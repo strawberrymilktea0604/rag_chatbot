@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itdainb/PhoRanker"><img src="https://img.shields.io/badge/Reranker-PhoRanker-orange.svg" alt="PhoRanker"></a>
-  <a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/VectorDB-Qdrant-blue.svg" alt="Qdrant"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Storage-MongoDB-green.svg" alt="MongoDB"></a>
-  <a href="https://django-rest-framework.org/"><img src="https://img.shields.io/badge/Backend-Django-092E20.svg" alt="Django"></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Frontend-Next.js-black.svg" alt="Next.js"></a>
+  <a href="https://github.com/itdainb/PhoRanker"><img src="https://img.shields.io/badge/Reranker-PhoRanker-orange.svg?logo=github&logoColor=white" alt="PhoRanker"></a>
+  <a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/VectorDB-Qdrant-blue.svg?logo=qdrant&logoColor=white" alt="Qdrant"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Storage-MongoDB-green.svg?logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://django-rest-framework.org/"><img src="https://img.shields.io/badge/Backend-Django-092E20.svg?logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Frontend-Next.js-black.svg?logo=nextdotjs&logoColor=white" alt="Next.js"></a>
 </p>
 
 ---
